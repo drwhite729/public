@@ -15,4 +15,4 @@ This time, I'm creating a repository with no specific purpose in mind, other tha
 
 Actually, I do have one purpose in mind so far -- I want to experiment with [GitHub Pages](//pages.github.com/), which requires either that the repository be public or that I pay GitHub some money.  I don't necessarily have anything against GitHub or against the idea of paying money; I just happen to be broke at the moment.  So, I'm creating a public repository.
 
-By the way, and this remark is almost completely off-topic -- but this site that I just found today is really pretty darn cool: [Tables Generator](https://www.tablesgenerator.com/)
+By the way, and this remark is almost completely off-topic -- but this site that I just found today is pretty darn cool: [Tables Generator](https://www.tablesgenerator.com/)
