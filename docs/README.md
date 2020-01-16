@@ -2,8 +2,7 @@
 
 ## a public repository
 
-I generally can't decide, when I create repository, whether I want its contents to be public or private.
-In fact, I tend to to change my mind about that all the time.  I have definite internal conflicts.
+I generally can't decide, when I create repository, whether I want its contents to be public or private.  In fact, I tend to to change my mind about that all the time.  I have definite internal conflicts.
 
 | Reasons make a repository public                    | Reasons to keep a repository private                |
 |-----------------------------------------------------|-----------------------------------------------------|
@@ -12,3 +11,4 @@ In fact, I tend to to change my mind about that all the time.  I have definite i
 | because this code is nothing special                | because this code is *mine*; go write your own code |
 | because I just want to share some useful techniques | because I want to sell this and make some money     |
 
+This time, I'm creating a repository with no specific purpose in mind, other than to have a public repository.  I don't know what I'm going to put it in yet.  I'm not even giving it a descriptive name yet; it's just "public".  I might never use it, but if I do, I don't want to second-guess myself later and waste any time deciding if I want it to be public or private.  If I put it here, it's public.  The repository name is "public", and I added a public license to it.
